@@ -36,3 +36,16 @@ dialog{
 .margin{
     margin: 5px;
 }
+
+.bang{
+    margin-bottom: 30px;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    height: 70px;
+    width: 100%;
+    background-color: antiquewhite;
+    -webkit-box-shadow: 10px 10px 34px 0px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 10px 10px 34px 0px rgba(0, 0, 0, 0.75);
+        box-shadow: 10px 10px 34px 0px rgba(0, 0, 0, 0.75);
+}
